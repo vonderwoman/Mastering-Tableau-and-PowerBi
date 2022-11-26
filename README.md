@@ -8,4 +8,4 @@ Data Exploration with BI  tools
 -Can be used to notice trends and pattern in data
 -Can produce dashboards to help businesses monitor their performance
 -Connects to several data sources like MongoDB, Postgres and More
-
+-used for story telling
