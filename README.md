@@ -1,7 +1,7 @@
 # Mastering-Tableau-and-PowerBi
 Data Exploration with BI  tools
 
-**Tableau**
+**Tableau is used for**
 -Used for data visualization and data analysis
 -Data visualization is the graphical representation of information and data
 -Charts, Graphs, Table and Maps
